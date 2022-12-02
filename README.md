@@ -31,7 +31,7 @@ Some of my favorite quotes to live by:
 <img align="left" alt="Pandas" height="50px" src="https://raw.githubusercontent.com/levijhall/levijhall/main/icons/pandas-original-wordmark.svg"/>
 <img alt="OpenCV" height="40px" src="https://raw.githubusercontent.com/levijhall/levijhall/main/icons/opencv-original-wordmark.svg"/>
 
-### About me on GitHub
+### Snapshot of me on GitHub:
 
 ![Levi J. Hall's GitHub stats](https://github-readme-stats.vercel.app/api?username=levijhall&show_icons=true)
 
