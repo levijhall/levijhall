@@ -6,7 +6,7 @@ A Data Scientist with a background in Physics and Mathematics, trying to make se
 
 - 🌱 I’m currently **learning software engineering** and **database management**.
 - 😄 Pronouns: **He**/**Him**
-- ⚡ Fun fact: **I love to bake 🍞** and **climb mountains 🌄.**
+- ⚡ Fun fact: **I love to bake 🍞** and **climb mountains 🌄**
 
 Some of my favorite quotes to live by:
 
