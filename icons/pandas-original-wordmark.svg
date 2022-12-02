@@ -76,7 +76,7 @@
 
     
 
-  <meta name="request-id" content="F7F4:31E6:5C36973:88D4AEC:63898B43" data-turbo-transient="true" /><meta name="html-safe-nonce" content="40de658031a4d44339b467452ca672d189697682ce5c434f43a700158b0f95ce" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9kZXZpY29ucy9kZXZpY29uL3RyZWUvbWFzdGVyL2ljb25zL3BhbmRhcyIsInJlcXVlc3RfaWQiOiJGN0Y0OjMxRTY6NUMzNjk3Mzo4OEQ0QUVDOjYzODk4QjQzIiwidmlzaXRvcl9pZCI6IjQ2NjAwMTI2Nzg1NzYwOTcyNzEiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-turbo-transient="true" /><meta name="visitor-hmac" content="8bac507d6e394bd5501992d61e8125c6fb51a308f8c96cbbabbafc4284ac0636" data-turbo-transient="true" />
+  <meta name="request-id" content="F7F4:31E6:5C910DB:8957A11:6389905D" data-turbo-transient="true" /><meta name="html-safe-nonce" content="40de658031a4d44339b467452ca672d189697682ce5c434f43a700158b0f95ce" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9kZXZpY29ucy9kZXZpY29uL3RyZWUvbWFzdGVyL2ljb25zL3BhbmRhcyIsInJlcXVlc3RfaWQiOiJGN0Y0OjMxRTY6NUM5MTBEQjo4OTU3QTExOjYzODk5MDVEIiwidmlzaXRvcl9pZCI6IjQ2NjAwMTI2Nzg1NzYwOTcyNzEiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-turbo-transient="true" /><meta name="visitor-hmac" content="10c9565b1b898b7017705a481b850228082306009a6399af16d627bc1e0ffc7f" data-turbo-transient="true" />
 
 
     <meta name="hovercard-subject-tag" content="repository:17317349" data-turbo-transient>
@@ -119,7 +119,7 @@
       <meta property="og:image" content="https://opengraph.githubassets.com/e639a7f73b17b2ffbf013123c0a3737e32ce1662b6fe3480dea5f5b11134f6e2/devicons/devicon" /><meta property="og:image:alt" content="Set of icons representing programming languages, designing &amp; development tools - devicon/pandas-original-wordmark.svg at master · devicons/devicon" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="devicon/pandas-original-wordmark.svg at master · devicons/devicon" /><meta property="og:url" content="https://github.com/devicons/devicon" /><meta property="og:description" content="Set of icons representing programming languages, designing &amp; development tools - devicon/pandas-original-wordmark.svg at master · devicons/devicon" />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/11545423/ws?session=eyJ2IjoiVjMiLCJ1IjoxMTU0NTQyMywicyI6MTAwMzE4NDY4MCwiYyI6MzA1MTU3Mzg3NywidCI6MTY2OTk1ODQ3Nn0=--258000ceb4361a672339a56ea2e6d282b2d9e26c11fdb956985fb09099d16469" data-refresh-url="/_alive" data-session-id="abde019a6f8fbba28926cbc38dd86af985fc3e6059d5e02106aecc76bf7e3fc7">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/11545423/ws?session=eyJ2IjoiVjMiLCJ1IjoxMTU0NTQyMywicyI6MTAwMzE4NDY4MCwiYyI6NjIxMjA2MzMzLCJ0IjoxNjY5OTU5NzgzfQ==--079ff5d439953f306e3695ce842e486de8712e391940c57a19ee89c9a29b710f" data-refresh-url="/_alive" data-session-id="abde019a6f8fbba28926cbc38dd86af985fc3e6059d5e02106aecc76bf7e3fc7">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b87581f5816c.js">
 
 
@@ -242,7 +242,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="WDZFFVRuejZSbDglmyEsLBlQIpfE85-T4kh_-m1kuOfLyx6RZv9x4dVOAly9TTumE3iP7fphaVzhQTxUKszKDg" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="2wWP1vhobu7WaSSHx4rs98AEItIgRWic-8XY7BRKCGFI-NRSyvllOVFLHv7h5vt9yiyPqB7XnlP4zJtCU-J6iA" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -449,7 +449,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/11545423?s=40&amp;v=4" width="20" height="20" alt="@levijhall" />
       levijhall
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="dA_56XEyMMClFlJYI3BNC97wMm-2WY6WhTGI3hmcOscVc2-edQAMy_muEIx8c10-gWamVqbScmilB60IDosiNw" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="RDbqXN-kEnmaXD5ed9kkYnUAqdM-tmNjtRW6rJj2428lSnwr25YucsbkfIoo2jRXKpY96i49n52VI596j-H7nw" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -484,7 +484,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTE1NDU0MjMiLCJ0IjoxNjY5OTU4NDc2fQ==--c474457f8b7b7642074e691b25439cdc1fd52a180d2759d4cdc821508cd9e000" data-indicator-mode="global" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTE1NDU0MjMiLCJ0IjoxNjY5OTU5NzgzfQ==--bd471800e6e311a8671e1e7b4e30b9c433b7ea2a138b7314e18c56f9ca4be8e3" data-indicator-mode="global" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -1663,7 +1663,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="l1KGRYEaPOe74Q50M6sDbpZUDd1r1izgwJvBAz-DIvjgBaswzxtOdS0-38AJcdGnaltomnjqzUcZDZ-Gymx9fQ" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="qIb7AXWOCsJ-Q1xrYsK7NA2y8q60Kve9I9uKEcjXIvjf0dZ0O494UOicjd9YGGn98b2X6acWFhr6TdSUPTh9fQ" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="17317349">
 
@@ -1791,7 +1791,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="QtOK4eGgOJCy9IGK0yPwrR66LP7uRj8azAiKyIkQHZc1hKeUr6FKAiQrUD7p-SJk4rVJuf163r0VntRNfP9CEg" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="bh_FKiCiOEwAO5VnYopjO3JiOel45MDUGiGNBzZrUhAZSOhfbqNK3pbkRNNYULHyjm1crmvYIXPDt9OCw4QNlQ" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="17317349">
 
@@ -1952,13 +1952,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-90e890">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-92baa6">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-90e890"
+        id="filter-menu-92baa6"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2000,8 +2000,8 @@
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container on d-flex">
     <div data-view-component="true" class="starred BtnGroup flex-1">
-      <form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/devicons/devicon/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="D7UtVY-x9vSs27dsXMHDXXcvzPEo9pe8dQeXmLrGzAzEonQPoJ3s8BjfnGMRNRO861ZTAMQkE1aKAYH_ltZBhA" autocomplete="off" />
-          <input type="hidden" value="w2_lcKs9pxuudLLwVRkVGkRZZjDfIlfhtbD415vE6f4IeLwqhBG9Hxpwmf8Y7cX72CD5wTPw0wtKtu6wt9Rkdg" data-csrf="true" class="js-confirm-csrf-token" />
+      <form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/devicons/devicon/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="OwgEhXCUnG40DFtJga7tjsK8CzD1RwcAFsCzvxxzNnXwH13fX7iGaoAIcEbMWj1vXsWUwRmVg-rpxqXYMGO7_Q" autocomplete="off" />
+          <input type="hidden" value="NfVieIjIn-gDg9zju1W--hcF4vILjZ4aePWRxJa8WHL-4jsip-SF7LeH9-z2oW4bi3x9A-dfGvCH84ejuqzV-g" data-csrf="true" class="js-confirm-csrf-token" />
         <input type="hidden" name="context" value="repository">
           <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:17317349,&quot;originating_url&quot;:&quot;https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg&quot;,&quot;user_id&quot;:11545423}}" data-hydro-click-hmac="c10dd953e8fac833ffb620ec177845f75143c3f8a2f28be703b2fc89cecce7f9" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (6521)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
@@ -2021,13 +2021,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-5692a1">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-aceb73">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-5692a1"
+        id="filter-menu-aceb73"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2048,7 +2048,7 @@
 </details>
 </div>
     <div data-view-component="true" class="unstarred BtnGroup flex-1">
-      <form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/devicons/devicon/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="5V-oAoZlwkQ5gfFIjA0xWiL_vqaksfilK49u18ShUOhAgzdMSjPHM72KmxPcZFNEONlqJUY3N6lXrrwtF9i-8A" autocomplete="off" />
+      <form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/devicons/devicon/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Ytom2ozXqxOfAtUOJU-R6NcZb82t-9yT6DHyQeTI95jHBrmUQIGuZBsJv1V1JvP2zT-7Tk99E5-UECC7N7EZgA" autocomplete="off" />
         <input type="hidden" name="context" value="repository">
           <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:17317349,&quot;originating_url&quot;:&quot;https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg&quot;,&quot;user_id&quot;:11545423}}" data-hydro-click-hmac="b6b0eeb7cd74f3a282e92525aa80f0379ee1af4b92f59b87380763bf7dd0ae5d" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (6521)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
@@ -2068,13 +2068,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-5692a1">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-aceb73">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-5692a1"
+        id="filter-menu-aceb73"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2726,7 +2726,7 @@ Co-authored-by: Thomas-Boi &lt;Thomas-Boi@users.noreply.github.com&gt;</pre></di
     <div class="d-flex">
         
 <div class="ml-1" data-test-selector="edit-dropdown-menu-component">
-  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/devicons/devicon/edit/master/icons/pandas/pandas-original-wordmark.svg" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="WPneLAPXW9o2-zyF0Ei0bEpp4gl226nWnGz-MfmoU4ypXqBIm1Dn58vrxSZzKL17aFA9r44DeexzskePE7s2Uw" autocomplete="off" />
+  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/devicons/devicon/edit/master/icons/pandas/pandas-original-wordmark.svg" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="fRbGgPJNDcGP-htF-cTC_O1MgrHX8DNj5eNz0TAJG8uMsbjkasqx_HLq4uZapMvrz3VdFy8o41kKPcpv2hp-FA" autocomplete="off" />
       <button title="Fork this repository and edit the file" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
@@ -2736,7 +2736,7 @@ Co-authored-by: Thomas-Boi &lt;Thomas-Boi@users.noreply.github.com&gt;</pre></di
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/devicons/devicon/edit/master/icons/pandas/pandas-original-wordmark.svg" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ZrMbSYbVz1B_DvbLlW4auP7TA2X-qkYZrqdi_XutuqWXFGUtHlJzbYIeD2g2DhOv3OrcwwZyliNBedtDkb7feg" autocomplete="off" />
+          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/devicons/devicon/edit/master/icons/pandas/pandas-original-wordmark.svg" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="2OMjiBmS6BIn7CJ42UUw1D6LjduDaHJNPRTHnK0dswopRF3sgRVUL9r829t6JTnDHLJSfXuwonfSyn4iRw7W1Q" autocomplete="off" />
               <button title="Fork this repository and edit the file" data-test-selector="edit-text-button" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -2783,7 +2783,7 @@ Co-authored-by: Thomas-Boi &lt;Thomas-Boi@users.noreply.github.com&gt;</pre></di
 </remote-clipboard-copy></div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/devicons/devicon/delete/master/icons/pandas/pandas-original-wordmark.svg" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="4L3htxUjoIVtkrjxN9qR9BxJBnGIxIZzItREbS2kPeeM8NB8CGOz5FEmApxdfN-0XrW6De2wZMWXjhzgG0zKoQ" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/devicons/devicon/delete/master/icons/pandas/pandas-original-wordmark.svg" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="191RCD3nuGpcHVtrURFK9bT1DzCYCefIp0uV6SiOeMm7kGDDIKerC2Cp4QY7twS19gmzTP19BX4SEc1kHmaPjw" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this repository and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2873,7 +2873,7 @@ Co-authored-by: Thomas-Boi &lt;Thomas-Boi@users.noreply.github.com&gt;</pre></di
 
           <div class="render-wrapper ">
     <div class="render-container is-render-pending js-render-target "
-      data-identity="00fd0453-430b-4ac2-9e69-d0d1cc8d1c06"
+      data-identity="0fe55af6-e86a-4220-bf50-7c8a78d4e52a"
       data-host="https://viewscreen.githubusercontent.com"
       data-type="svg">
       <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="64" height="64" viewBox="0 0 16 16" fill="none" data-view-component="true" class="octospinner mx-auto anim-rotate">
@@ -2885,10 +2885,10 @@ Co-authored-by: Thomas-Boi &lt;Thomas-Boi@users.noreply.github.com&gt;</pre></di
       <div class="render-viewer-invalid">Sorry, this file is invalid so it cannot be displayed.</div>
       <iframe
         class="render-viewer "
-        src="https://viewscreen.githubusercontent.com/view/svg?browser=chrome&amp;color_mode=auto&amp;commit=1119b9f84c0290e0f0b38982099a2bd027a48bf1&amp;device=unknown_device&amp;enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f64657669636f6e732f64657669636f6e2f313131396239663834633032393065306630623338393832303939613262643032376134386266312f69636f6e732f70616e6461732f70616e6461732d6f726967696e616c2d776f72646d61726b2e737667&amp;logged_in=true&amp;nwo=devicons%2Fdevicon&amp;path=icons%2Fpandas%2Fpandas-original-wordmark.svg&amp;platform=windows&amp;repository_id=17317349&amp;repository_type=Repository&amp;version=108#00fd0453-430b-4ac2-9e69-d0d1cc8d1c06"
+        src="https://viewscreen.githubusercontent.com/view/svg?browser=chrome&amp;color_mode=auto&amp;commit=1119b9f84c0290e0f0b38982099a2bd027a48bf1&amp;device=unknown_device&amp;enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f64657669636f6e732f64657669636f6e2f313131396239663834633032393065306630623338393832303939613262643032376134386266312f69636f6e732f70616e6461732f70616e6461732d6f726967696e616c2d776f72646d61726b2e737667&amp;logged_in=true&amp;nwo=devicons%2Fdevicon&amp;path=icons%2Fpandas%2Fpandas-original-wordmark.svg&amp;platform=windows&amp;repository_id=17317349&amp;repository_type=Repository&amp;version=108#0fe55af6-e86a-4220-bf50-7c8a78d4e52a"
         sandbox="allow-scripts allow-same-origin allow-top-navigation"
         title="File display"
-        name="00fd0453-430b-4ac2-9e69-d0d1cc8d1c06"
+        name="0fe55af6-e86a-4220-bf50-7c8a78d4e52a"
       >
           Viewer requires iframe.
       </iframe>
