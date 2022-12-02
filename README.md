@@ -1,3 +1,5 @@
+<img src="/photos/Early Morning.jpg" alt="" title="Early Morning in Montana" width=100%>
+
 ## Greetings! 👋 I'm Levi.
 
 A Data Scientist with a background in Physics and Mathematics, trying to make sense of it all.
@@ -24,7 +26,13 @@ Some of my favorite quotes to live by:
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" height="40" src="https://raw.githubusercontent.com/levijhall/levijhall/main/icons/python-original.svg"/>
-<img align="left" alt="Jupyter" height="40px" src="https://raw.githubusercontent.com/levijhall/levijhall/main/icons/jupyter-original-wordmark.svg"/>
-<img align="left" alt="Pandas" height="40px" src="https://raw.githubusercontent.com/levijhall/levijhall/main/icons/pandas-original-wordmark.svg"/>
-<img align="left" alt="OpenCV" height="40px" src="https://raw.githubusercontent.com/levijhall/levijhall/main/icons/opencv-original-wordmark.svg"/>
+<img align="left" alt="Python" height="50px" src="https://raw.githubusercontent.com/levijhall/levijhall/main/icons/python-original.svg"/>
+<img align="left" alt="Jupyter" height="50px" src="https://raw.githubusercontent.com/levijhall/levijhall/main/icons/jupyter-original-wordmark.svg"/>
+<img align="left" alt="Pandas" height="50px" src="https://raw.githubusercontent.com/levijhall/levijhall/main/icons/pandas-original-wordmark.svg"/>
+<img alt="OpenCV" height="40px" src="https://raw.githubusercontent.com/levijhall/levijhall/main/icons/opencv-original-wordmark.svg"/>
+
+### About me on GitHub
+
+![Levi J. Hall's GitHub stats](https://github-readme-stats.vercel.app/api?username=levijhall&show_icons=true)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=levijhall&layout=compact)](https://github.com/levijhall/github-readme-stats)
