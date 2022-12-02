@@ -24,7 +24,7 @@ Some of my favorite quotes to live by:
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" height="60px" src="https://raw.githubusercontent.com/levijhall/levijhall/main/icons/python-original-wordmark.svg"/>
+<img align="left" alt="Python" height="60px" src="https://raw.githubusercontent.com/levijhall/levijhall/main/icons/python-original.svg"/>
 <img align="left" alt="Jupyter" height="60px" src="https://raw.githubusercontent.com/levijhall/levijhall/main/icons/jupyter-original-wordmark.svg"/>
 <img align="left" alt="Pandas" height="60px" src="https://raw.githubusercontent.com/levijhall/levijhall/main/icons/pandas-original-wordmark.svg"/>
 <img align="left" alt="OpenCV" height="60px" src="https://raw.githubusercontent.com/levijhall/levijhall/main/icons/opencv-original-wordmark.svg"/>
