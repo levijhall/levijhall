@@ -4,7 +4,7 @@
 
 A Data Scientist with a background in Physics and Mathematics, trying to make sense of it all.
 
-- 🌱 I’m currently **learning software engineering** and **database management**.
+- 🌱 I’m looking for roles in **data science** and **data analytics**.
 - 😄 Pronouns: **He**/**Him**
 - ⚡ Fun fact: **I love to bake 🍞** and **climb mountains 🌄**
 
