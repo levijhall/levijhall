@@ -33,6 +33,4 @@ Some of my favorite quotes to live by:
 
 ### Snapshot of me on GitHub:
 
-![Levi J. Hall's GitHub stats](https://github-readme-stats.vercel.app/api?username=levijhall&show_icons=true)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=levijhall&layout=compact)](https://github.com/levijhall/github-readme-stats)
